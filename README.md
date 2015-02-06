@@ -1,6 +1,6 @@
 A plain and simple resume template available in four different color themes.
 
-![Color themes](http://simpleresume.neocities.org/images/screenshots_stacked.png)
+![Color themes](http://www.stefanlyager.dk/simpleresume/images/screenshots_stacked.png)
 
 Features
 ---
